@@ -9,6 +9,7 @@
 ![received_394191943232868](https://github.com/james11235813/james11235813/assets/150921088/5c266430-7af4-41ae-b593-3ac44df7d8a2)
 
 klucz SSH:
+
 -----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEA4o/+e26nAvvSdLRqKzfQzxyICDoyMpKDgSbTA8KCezXPXR15
 4EQXlTTeEi1oT83ATMDbSfXcmbwVk7eaqXHqPKyJpkzGtTx+VBmTRShofykDehJ3
